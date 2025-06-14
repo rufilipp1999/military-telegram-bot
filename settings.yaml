@@ -1,0 +1,17 @@
+
+admins:
+  - 567367008
+  - 660708155
+
+channel: "@testbotgpt1"
+
+autoposting:
+  enabled: true
+  night_hours:
+    start: "01:00"
+    end: "07:00"
+
+reporting:
+  daily: true
+  weekly: true
+  monthly: true
